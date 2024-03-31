@@ -1,16 +1,21 @@
-### Hi there 👋
+PFPFinder
+The ultimate resource for finding and sharing awesome Discord profile pictures and banners.
 
-<!--
-**pfpfinder/pfpfinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://pfpfinder.com
 
-Here are some ideas to get you started:
+Find Your Perfect Match
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PFPFinder makes it easy to personalize your Discord presence. Explore our vast collection of profile pictures and banners, use our handy tools, and connect with a community of PFP enthusiasts.
+
+Top Categories
+
+GIFs: https://pfpfinder.com/gifs – Discover a dynamic collection of animated profile pictures.
+Banners: https://pfpfinder.com/banners – Customize your Discord profile with eye-catching banners.
+More to come! (Add other key categories as they become available on your site)
+Tools
+
+Discord PFP Downloader: https://pfpfinder.com/tools/discord-pfp-downloader – Quickly download any Discord user's profile picture.
+Discord Lookup: https://pfpfinder.com/tools/discord-lookup – Find basic profile information using a Discord ID.
+More coming soon! (List other planned tools)
+We're always growing! Stay tuned for new categories, features, and ways to express yourself on Discord.
+
