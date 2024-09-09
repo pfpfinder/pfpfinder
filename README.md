@@ -4,7 +4,7 @@ The ultimate resource for finding and sharing awesome [Discord profile pictures 
 
 ## Find Your Perfect Match
 
-PFPFinder makes it easy to personalize your Discord presence. Explore our vast collection of profile pictures and banners, use our handy tools, and connect with a community of PFP enthusiasts.
+PFPFinder makes it easy to personalize your Discord presence. Explore our vast collection of [Discord PFPs](https://pfpfinder.com/) & profile pictures and banners, use our handy tools, and connect with a community of PFP enthusiasts.
 
 ## Top Categories
 
